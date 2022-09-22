@@ -18,6 +18,18 @@
 
 저는 최대한 Vim을 통해서 이 마크다운을 작성하고자 합니다. 매일 새로운 것들을 파편적으로 배우는데 노션이 무거워질정도로 많아져서 따로 분할합니다. 물론 단점도 있습니다. 검색이 어렵습니다. `<Div>`를 가운데로 정렬하는 검색을 아직도 자주 합니다. 나중에 개발자 블로그를 만들고 이월하고 위키페이지로 전환할 것입니다. 아마 gatsby를 활용할 것같습니다. 
 
-
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
 
 
