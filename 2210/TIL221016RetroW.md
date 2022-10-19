@@ -13,15 +13,15 @@
 ~~(내용)~~
 ```
 
-- [x] 새 타이머 구매하기
-- [ ] freecodecamp 2022 react solo project 4 완수하기
-- [ ] 마크다운 Cook Book 정리하기
-    - [ ] 마크다운 접었다 펼첬다 기능 추가하기
-    - [ ] 마크다운 취소선 ~~취소선 동작~~
-    - [ ] 마크다운 강조
-    - [ ] 마크다운 구분선
-    - [ ] 마크다운 체크박스
-    - [ ] codepen.io 임베드
+<!-- - [x] 새 타이머 구매하기 -->
+- [-] freecodecamp 2022 react solo project 4 완수하기
+- [-] 마크다운 Cook Book 정리하기
+    - [-] 마크다운 접었다 펼첬다 기능 추가하기
+    - [-] 마크다운 취소선 ~~취소선 동작~~
+    - [-] 마크다운 강조
+    - [-] 마크다운 구분선
+    - [-] 마크다운 체크박스
+    - [-] codepen.io 임베드
 
 <details>
 <summary>접기/펼치기 버튼</summary>
@@ -64,7 +64,7 @@ https://www.sonarsource.com/products/sonarlint/
 - astro 프레임워크로 개발자 블로그 만들고 싶습니다.
 
 ## Action Item
--[ ] freecodecapm 2022 React 개발학습 완전히 마무리하기
+-[v] freecodecapm 2022 React 개발학습 완전히 마무리하기
 -[ ] 자바스크립트 코어 배우기
 -[ ] 자바스크립트 코어를 익히면 생활코딩 node.js 재수강하기
 
