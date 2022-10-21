@@ -64,7 +64,7 @@ https://www.sonarsource.com/products/sonarlint/
 - astro 프레임워크로 개발자 블로그 만들고 싶습니다.
 
 ## Action Item
--[x] freecodecapm 2022 React 개발학습 완전히 마무리하기
-- TODO [ ] 자바스크립트 코어 배우기
+- [x] freecodecapm 2022 React 개발학습 완전히 마무리하기
+- [x] 자바스크립트 코어 배우기
 - TODO [ ] 자바스크립트 코어를 익히면 생활코딩 node.js 재수강하기
 
