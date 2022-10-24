@@ -10,12 +10,12 @@
 
 - [x] 튜토리얼 완수하기
     - [x] 3-9 ~ 3-16
-- [ ] poiemaweb html
-    - [ ] 시멘틱
-    - [ ] HTML5 기능추가 표
-    - [ ] HTML 요소 이미지
-    - [ ] 홀태그
-    - [ ] 어트리뷰트 표
+- [x] poiemaweb html
+    - [x] 시멘틱
+    - [x] HTML5 기능추가 표
+    - [x] HTML 요소 이미지
+    - [x] 홀태그
+    - [x] 어트리뷰트 표
 - 유데미 - App Brewery 강의
 - jotai, Zustand 튜토리얼
     - [ ] 영상 요약 https://www.youtube.com/watch?v=5-1LM2NySR0
