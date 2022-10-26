@@ -10,12 +10,12 @@
 
 - [x] 튜토리얼 완수하기
     - [x] 3-9 ~ 3-16
-- [x] poiemaweb html
-    - [x] 시멘틱
-    - [x] HTML5 기능추가 표
-    - [x] HTML 요소 이미지
-    - [x] 홀태그
-    - [x] 어트리뷰트 표
+- [ ] poiemaweb html
+    - [ ] 시멘틱
+    - [ ] HTML5 기능추가 표
+    - [ ] HTML 요소 이미지
+    - [ ] 홀태그
+    - [ ] 어트리뷰트 표
 - 유데미 - App Brewery 강의
 - jotai, Zustand 튜토리얼
     - [ ] 영상 요약 https://www.youtube.com/watch?v=5-1LM2NySR0
@@ -64,8 +64,8 @@ Optional
 - 리액트 개발자 로드맵 정복
 
 ## Action Item
-- TODO [ ] 프로그래밍 이란 무엇인가? https://www.youtube.com/watch?v=zOjov-2OZ0E
-    - [ ] DIY-CS 리포에 자료 정리하기
+- [x] 프로그래밍 이란 무엇인가? https://www.youtube.com/watch?v=zOjov-2OZ0E
+    - [x] DIY-CS 리포에 자료 정리하기
 - TODO [ ] JavaScript 객체 지향 프로그래밍
     - TODO [ ] freecodecamp - 개념 : https://www.youtube.com/watch?v=SiBw7os-_zI&pp=ugMICgJrbxABGAE%3D
     - TODO [ ] freecodecamp : https://www.youtube.com/watch?v=2ZphE5HcQPQ&pp=ugMICgJrbxABGAE%3D
@@ -78,16 +78,16 @@ Optional
     - TODO [ ] 노마드 코더
         - [ ] https://www.youtube.com/playlist?list=PL7jH19IHhOLOoUvk9lSX5bzEI0ZpF4U7a
         - [ ] https://www.youtube.com/playlist?list=PL7jH19IHhOLMdHvl3KBfFI70r9P0lkJwL
-- TODO [ ] async await, promise, then, try catch
-    - TODO [ ] 생활코딩
-        - TODO [ ] Promise (then, catch) https://www.youtube.com/watch?v=Sn0ublt7CWM
-        - TODO [ ] async & await https://www.youtube.com/watch?v=Sn0ublt7CWM
-    - TODO [ ] freecodecamp: https://www.youtube.com/watch?v=ZYb_ZU8LNxs&pp=ugMICgJrbxABGAE%3D
-    - TODO [ ] Fireship.io https://www.youtube.com/watch?v=vn3tm0quoqE&pp=ugMICgJrbxABGAE%3D
-        - promise https://www.youtube.com/watch?v=RvYYCGs45L4&pp=ugMICgJrbxABGAE%3D
-        - https://www.youtube.com/shorts/ITogH7lJTyE
-    - TODO [ ] https://www.youtube.com/watch?v=Kpn2ajSa92c&pp=ugMICgJrbxABGAE%3D
-    - TODO [ ] https://www.youtube.com/watch?v=PoRJizFvM7s
+- [x] async await, promise, then, try catch
+    - [x] 생활코딩
+        - [x] Promise (then, catch) https://www.youtube.com/watch?v=Sn0ublt7CWM
+        - [x] async & await https://www.youtube.com/watch?v=Sn0ublt7CWM
+    - [x] freecodecamp: https://www.youtube.com/watch?v=ZYb_ZU8LNxs&pp=ugMICgJrbxABGAE%3D
+    - [x] Fireship.io https://www.youtube.com/watch?v=vn3tm0quoqE&pp=ugMICgJrbxABGAE%3D
+        - [x] promise https://www.youtube.com/watch?v=RvYYCGs45L4&pp=ugMICgJrbxABGAE%3D
+        - [x] https://www.youtube.com/shorts/ITogH7lJTyE
+    - [x] https://www.youtube.com/watch?v=Kpn2ajSa92c&pp=ugMICgJrbxABGAE%3D
+    - [x] https://www.youtube.com/watch?v=PoRJizFvM7s
 - TODO [ ] JavaScript 정규표현식(Regex, regular expression)
     - TODO [ ] 생활코딩 https://opentutorials.org/course/743/6580
 - TODO [ ] ES6 JavaScript syntax: set, map, symbol, bigint
