@@ -67,17 +67,18 @@ Optional
 - [x] 프로그래밍 이란 무엇인가? https://www.youtube.com/watch?v=zOjov-2OZ0E
     - [x] DIY-CS 리포에 자료 정리하기
 - TODO [ ] JavaScript 객체 지향 프로그래밍
-    - TODO [ ] freecodecamp - 개념 : https://www.youtube.com/watch?v=SiBw7os-_zI&pp=ugMICgJrbxABGAE%3D
-    - TODO [ ] freecodecamp : https://www.youtube.com/watch?v=2ZphE5HcQPQ&pp=ugMICgJrbxABGAE%3D
-    - TODO [ ] https://www.youtube.com/watch?v=5AWRivBk0Gw&pp=ugMICgJrbxABGAE%3D
+    - [x] freecodecamp - 개념 : https://www.youtube.com/watch?v=SiBw7os-_zI&pp=ugMICgJrbxABGAE%3D
+    - [x] freecodecamp : https://www.youtube.com/watch?v=2ZphE5HcQPQ&pp=ugMICgJrbxABGAE%3D
+    - [x] Web Dev Simplified https://www.youtube.com/watch?v=5AWRivBk0Gw&pp=ugMICgJrbxABGAE%3D
     - TODO [ ] MDN : https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects
     - TODO [ ] 생활코딩 : https://opentutorials.org/course/743/6584
-    https://www.youtube.com/watch?v=fsVL_xrYO0w&pp=ugMICgJrbxABGAE%3D
-    https://www.youtube.com/watch?v=cg1xvFy1JQQ
-    https://www.youtube.com/watch?v=dHrI-_xq1Vo
-    - TODO [ ] 노마드 코더
-        - [ ] https://www.youtube.com/playlist?list=PL7jH19IHhOLOoUvk9lSX5bzEI0ZpF4U7a
-        - [ ] https://www.youtube.com/playlist?list=PL7jH19IHhOLMdHvl3KBfFI70r9P0lkJwL
+    - TODO [ ] Fireship https://www.youtube.com/watch?v=dHrI-_xq1Vo
+    - TODO [ ] 코딩애플 
+        - [ ] https://www.youtube.com/watch?v=fsVL_xrYO0w&pp=ugMICgJrbxABGAE%3D
+        - [ ] https://www.youtube.com/watch?v=wUgmzvExL_E
+    - [x] 노마드 코더
+        - [x] https://www.youtube.com/watch?v=cg1xvFy1JQQ
+        - [x] https://www.youtube.com/watch?v=IeLWSKq0xIQ
 - [x] async await, promise, then, try catch
     - [x] 생활코딩
         - [x] Promise (then, catch) https://www.youtube.com/watch?v=Sn0ublt7CWM
@@ -95,6 +96,7 @@ Optional
     - TODO [ ] https://www.youtube.com/playlist?list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh
 - TODO [ ] JavaScript 재입문 https://developer.mozilla.org/ko/docs/Web/JavaScript/Language_Overview
 - TODO [ ] 유데미 인강
+
 # memo
 
 `array.length` update
