@@ -33,3 +33,9 @@ flowchart TD
 Liked, Learned, Lacked, Longed(원하는 것), Action Item
 
 # 중요한 것 20%에 80%를 노력하고 덜 중요한 80%에 20% 노력을 목표로 합니다.
+
+# 우리느 1년 안에 할 수 있는 것은 과대평가하고 10년 안에 할 수 있는 것을 과소평가하는 경향이 있습니다.
+
+[Taking It One Day at a Time](https://www.youtube.com/watch?v=UhWFddWz1Nk)
+
+[Change Your Life – One Tiny Step at a Time](https://www.youtube.com/watch?v=75d_29QWELk)
