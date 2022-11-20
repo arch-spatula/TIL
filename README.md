@@ -15,6 +15,25 @@
 - []
 ```
 
+```txt
+# 주간 회고
+
+## Liked
+-
+
+## Learned
+-
+
+## Lacked
+-
+
+## Longed(원하는 것)
+-
+
+## Action Item
+- [ ]
+```
+
 # 이 TIL을 만든 이유
 
 작성할 이유는 많습니다.
