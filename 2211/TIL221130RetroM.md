@@ -1,0 +1,39 @@
+1일1커밋 무사고: 17일차
+
+# 감사일기
+
+1. ???
+2. ???
+3. ???
+
+00:00
+
+# todo
+
+- [ ]
+
+https://charming-kyu.tistory.com/19
+
+# 월간 회고
+
+- ???
+
+## Liked
+
+- ???
+
+## Learned
+
+- ???
+
+## Lacked
+
+- ???
+
+## Longed(원하는 것)
+
+- ???
+
+## Action Item
+
+- [ ]
