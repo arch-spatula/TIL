@@ -18,7 +18,7 @@
     - [x] create
     - [x] read
     - [ ] update
-    - [ ] delete
+    - [x] delete
   - [ ] 이미지
 - [x] vim 정리
   - [x] control + d, control + u
@@ -47,6 +47,7 @@
 - 리덕스 체험하기
 - 타입스크립트 예습하기
 - jest 리액트 프로젝트에 적용하기
+- CS 지식 보완하기
 
 ## Action Item
 
@@ -54,3 +55,4 @@
 - [ ] 리액트 기초참고 강의 끝내기
 - [ ] firebase 활용해서 바닐라 자바스크립트 todo app완성하기
 - [ ] tailwind css 설치하고 체험하기
+- [ ] Crash Course: Computer Science로 이론 보강하기
