@@ -51,8 +51,8 @@
 
 ## Action Item
 
-- [ ] 리액트 기초강의 끝내기
+- [x] 리액트 기초강의 끝내기
 - [ ] 리액트 기초참고 강의 끝내기
 - [ ] firebase 활용해서 바닐라 자바스크립트 todo app완성하기
 - [ ] tailwind css 설치하고 체험하기
-- [ ] Crash Course: Computer Science로 이론 보강하기
+- [x] Crash Course: Computer Science로 이론 보강하기
