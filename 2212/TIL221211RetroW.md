@@ -48,10 +48,10 @@
 - [ ] 리액트 숙련 2주차 강의 수강
 - [ ] 리액트 기초참고 강의 끝내기
   - [ ] firebase 강의 수강
-- [ ] firebase 활용해서 바닐라 자바스크립트 todo app완성하기
+- [x] firebase 활용해서 바닐라 자바스크립트 todo app완성하기
 - [ ] tailwind css 설치하고 체험하기
 - [ ] Crash Course: Computer Science로 이론 보강하기
   - [x] 10강
-  - [ ] 20강
+  - [x] 20강
   - [ ] 30강
   - [ ] 40강
