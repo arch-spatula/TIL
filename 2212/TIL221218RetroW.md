@@ -48,9 +48,9 @@
 ## Action Item
 
 - [ ] 질문 연습하기
-- [ ] 리액트 심화
-  - [ ] 완강
-  - [ ] 과제 완료
+- [x] 리액트 심화
+  - [x] 완강
+  - [x] 과제 완료
 - [ ] [React Redux Toolkit Tutorials](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo)
 - [ ] [리액트 쿼리 아티클 읽기](https://tkdodo.eu/blog/practical-react-query)
 - [ ] Crash Course: Computer Science로 이론 보강하기
