@@ -31,7 +31,7 @@
 
 ## Liked
 
--
+- 리액트 네이티브 호기심이 해결되었습니다. 신입개발자 입장에서는 사이드 프로젝트로 활용할 기술 스택을 거의다 있는 것 같습니다. 리액트 네이티브가 모바일 프론트엔드가 되고 파이어베이스가 벡엔드가 됩니다. 풀스택 앱을 프로토타이핑을 위해 만들 수 있게 되었습니다.
 
 ## Learned
 
@@ -49,11 +49,12 @@
 
 ## Lacked
 
--
+- 리액트 네이티브는 큰 기업에서 진지하게 다루고 있습니다. 하지만 흥미가 떨어집니다.
 
 ## Longed(원하는 것)
 
 - 리액트 네이티브 보단 Next.js에 집중하고 싶습니다.
+- Next.js를 다루기 전에 굉장히 빠르게 express를 배우고 싶습니다.
 
 ## Action Item
 
@@ -66,3 +67,4 @@
   - [ ] 타입스크립트 핸즈온 복습 튜토리얼
     - [ ] [Beginner's TypeScript](https://www.totaltypescript.com/tutorials/beginners-typescript)
     - [ ] [Zod](https://www.totaltypescript.com/tutorials/zod)
+- [ ] [Next.js React Framework Course – Build and Deploy a Full Stack App From scratch](https://www.youtube.com/watch?v=KjY94sAKLlw)
