@@ -58,13 +58,13 @@
 
 ## Action Item
 
-- [ ] Supabase 시리즈 수강 (Supabase Crash Course)[https://www.youtube.com/playlist?list=PL4cUxeGkcC9hUb6sHthUEwG7r9VDPBMKO]
+- [x] Supabase 시리즈 수강 (Supabase Crash Course)[https://www.youtube.com/playlist?list=PL4cUxeGkcC9hUb6sHthUEwG7r9VDPBMKO]
 - [ ] (Advanced TypeScript)[https://www.youtube.com/playlist?list=PLIvujZeVDLMx040-j1W4WFs1BxuTGdI_b] 타입스크립트 활용 패턴 모두 정리하기
 - [ ] Zod 라이브러리 문제 풀이
   - [ ] [Zod](https://www.totaltypescript.com/tutorials/zod)
 - [ ] (Drag and Drop in React with React Query and react-beautiful-dnd)[https://www.youtube.com/watch?v=HeNVPF_fRXI]
 - [ ] (tkdodo의 현실적인 리액트 쿼리 시리즈 번역본 읽기)[https://parang.gatsbyjs.io/react/2022-react-01/]
-- [ ] Zustand TodoApp을 로컬 스토리지 활용해서 만들기
+- [x] Zustand TodoApp을 로컬 스토리지 활용해서 만들기
 - [ ] SQL 입문하기
   - [ ] 기초 이론
   - [ ] 개발환경
