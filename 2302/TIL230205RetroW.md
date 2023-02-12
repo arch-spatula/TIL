@@ -51,7 +51,7 @@
 
 ## Action Item
 
-- [ ] 피로를 풀기 위해 점심 혹은 저녁 시간에 중 나가서 글루콘 사오고 잠자기 전에 복용합니다.
+- [x] 피로를 풀기 위해 점심 혹은 저녁 시간에 중 나가서 글루콘 사오고 잠자기 전에 복용합니다.
 - [ ] 이번주에 MVP 뽑기
 - [ ] [HTTP freecodecamp 수업듣기](https://www.youtube.com/watch?v=2JYT5f2isg4&t=214s)
 - [ ] [함수형 코딩 깃헙 교재 읽기](https://github.com/MostlyAdequate/mostly-adequate-guide)
