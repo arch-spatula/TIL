@@ -63,20 +63,20 @@
 - [x] nextree getting a job 레포에 비상 탈출 기업으로 추가
 - [ ] 회사 지원
   - [x] [알로카도스](https://www.wanted.co.kr/wd/97394)
-  - [ ] [바이오리서치에이아이](https://bioresearchai.notion.site/bioresearchai/535186162c7d4e1fbcd4a0f90d1c5db1)
+  - [x] [바이오리서치에이아이](https://bioresearchai.notion.site/bioresearchai/535186162c7d4e1fbcd4a0f90d1c5db1)
   - [ ] [태그바이컴퍼니 (TAGby)](https://www.wanted.co.kr/wd/157290)
-- [ ] 매일 1장 이상 <리팩토링> 읽기
+- [x] 매일 1장 이상 <리팩토링> 읽기
   - [x] 월
   - [x] 화
-  - [ ] 수
-  - [ ] 목
-  - [ ] 금
-  - [ ] 토
-  - [ ] 일
-- [ ] 사이클 20분
+  - [x] 수
+  - [x] 목
+  - [x] 금
+  - [x] 토
+  - [x] 일
+- [x] 사이클 20분
   - [x] 화
   - [x] 목
-  - [ ] 토
+  - [x] 토
 - [ ] 프로그래머스 1시간 이상 문제 풀이
   - [x] 월
   - [x] 화
