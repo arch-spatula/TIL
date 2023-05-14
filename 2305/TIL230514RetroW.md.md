@@ -45,7 +45,31 @@
 - [ ] text
 - [ ] text
 
+## 주간회고
+
+
+### Liked
+
+-
+
+### Learned
+
+-
+
+### Lacked
+
+-
+
+### Longed(잘하기 위해 필요한 것)
+
+-
+
+### Action Item
+
+- [ ]
+
 ## vim 탭(buffer) 닫기
 
 - `:bd`: 탭(buffer) 닫기
+
 
