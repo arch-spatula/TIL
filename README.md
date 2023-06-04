@@ -37,25 +37,25 @@
 ```
 
 ```txt
-# 주간 회고
+## 주간 회고
 
-## Liked
-
--
-
-## Learned
+### Liked
 
 -
 
-## Lacked
+### Learned
 
 -
 
-## Longed(잘하기 위해 필요한 것)
+### Lacked
 
 -
 
-## Action Item
+### Longed(잘하기 위해 필요한 것)
+
+-
+
+### Action Item
 
 - [ ]
 ```
