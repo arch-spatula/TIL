@@ -6,19 +6,20 @@
 
 ## todo
 
-- [x] svelte 튜토리얼 진행하기
+- [ ] Danet todo app 시도해보기
+  - [x] 설치 및 탐색
+- [ ] 개발자 블로그 nav 순서 바꾸기
+- [ ] fast api 활용해보기
+- [ ] 자바스크립트 쿡북 만들기
 - [x] 개발자 블로그 정리하기
   - [x] vite를 사용해야 할 이유(지난주 일요일 글 수정하기)
   - [x] 개발자 밈 우유 사오고 아보카도 있으면 6개
+  - [x] 토요일 TIL
   - [ ] 이번주 생각 정리하기
-  - [ ] 토요일 TIL
-- [ ] Danet todo app 시도해보기
-- [ ] fast api 활용해보기
-- [ ] 자바스크립트 쿡북 만들기
-- [ ] 개발자 블로그 nav 순서 바꾸기
 - [x] 리액트 쿡북 만들기
   - [x] 6주차 블로그 마이그레이션
 - [x] 주간회고
+- [x] svelte 튜토리얼 진행하기
 
 ## 주간회고
 
@@ -68,3 +69,78 @@
 - [ ] 토큰 갱신 처리하기
 - [ ] 카드 삭제하기
 - [ ] 카드 편집하기
+
+## vite alias 설정법
+
+https://dev.to/tilly/aliasing-in-vite-w-typescript-1lfo
+
+예전에 발견하고 저장 했다가 나중에 다시 발견한 자료입니다.
+
+## Danet
+
+Danet을 시도해보고 싶은 이유는 더 좋은 백엔드 엔지니어링을 하고 싶었기 때문입니다. 물론 원래 의미인 테스트 가능성은 퇴색되었습니다.
+
+그리고 deno에서 통신 관련 테스트할 때는 그냥 fetch사용하면 되는 것이었습니다. 너무 복잡하게 생각했습니다.
+
+### Danet이란 무엇인가?
+
+Danet이란 무엇인가? Nest.js의 Deno 런타임 버전입니다. 물론 흉내 내보려고 시도한 다른 라이브러리들이 있습니다.
+
+| Name                                        | Star | Fork | Watch |
+| ------------------------------------------- | ---: | ---: | ----: |
+| [Dero](https://dero.herudi.workers.dev/#/)  |   19 |    0 |     4 |
+| [DestJS](https://deno.land/x/destjs@v0.2.0) |   61 |    2 |     1 |
+| [danet](https://docs.danet.land/)           |  139 |   14 |     2 |
+
+위 3개는 모두 Nest.js를 Deno에서 구현하기 위한 라이브러리들입니다. 하지만 여기서 비교할 것은 star 개수입니다. 가장 성숙도가 높아 보이는 것은 danet입니다.
+
+[공식 블로그](https://savory.github.io/)도 있습니다. 하지만 자료가 2023년 06월 18일 기준 블로그 포스트가 4개밖에 없습니다.
+
+### 설치
+
+Nest의 장점은 CLI가 좋다고 합니다. Danet도 거기에 맞게 활용하면 됩니다.
+
+```sh
+deno install --allow-read --allow-write --allow-run --allow-env -n danet https://deno.land/x/danet_cli/main.ts
+```
+
+만약을 위해 설치하면 경로를 잘 확인하도록 합니다.
+
+예를 들면 `export PATH="/Users/usernmae/.deno/bin:$PATH"`처럼 피드백을 줄 것입니다.
+
+이렇게 되면 cli가 설치된 것입니다.
+
+```sh
+danet new my-danet-project
+```
+
+여기서 주의할 점들이 있습니다. 실행하고 command가 zshrc에 설정이 안되어 있을 수 있습니다.
+
+```sh
+cd #루트 디렉토리 이동
+```
+
+```sh
+nvim .zshrc #zshrc 를 편집합니다.
+```
+
+위 설치할 때 경로를 활용해서 `.zshrc`을 편집해야 합니다.
+
+```sh title=".zshrc"
+# deno danet
+export PATH="/Users/username/.deno/bin:$PATH"
+```
+
+위 내용을 추가하고 `:wq`로 저장합니다.
+
+```sh
+source ~/.zshrc
+```
+
+그리고 실행 명령하고 터미널을 재시작하고 다시 danet의 연결을 확인해봅니다.
+
+```sh
+danet -h
+```
+
+피드백을 주면 연결에 성공한 것입니다.
