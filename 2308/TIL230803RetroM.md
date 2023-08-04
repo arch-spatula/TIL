@@ -215,3 +215,11 @@ https://docs.github.com/en/repositories/releasing-projects-on-github/automatical
 문제는 이해가 잘 안됩니다.
 
 이벤트, 워크플로우, 잡이 뭔지 알겠습니다. 어디를 어떻게 적성하고 제어해야 하는지 모르겠습니다.
+
+🔥 NEW to TypeScript - satisfies
+
+https://www.youtube.com/shorts/z12xYmmJ8Ww
+
+✨ How to write good abstractions
+
+https://www.youtube.com/shorts/cdl4OPXFSvY
