@@ -6,7 +6,8 @@
 몸을 자유자제로 변형할 수 있는 지혜로운 마법 댕댕이가 말씀하셨습니다.
 
 > Sucking at something is the first step towards being sorta good at something.
-> -Jake The Dog
+>
+> -\ Jake The Dog
 
 ## 커밋 컨벤션
 
