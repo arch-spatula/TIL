@@ -10,14 +10,14 @@
   - [x] 33 23장 에러핸들링
   - [x] 34 24장 고루틴
   - [x] 35 25장 채널과 컨텍스트
-  - [ ] 36 27장 SOLID 객체 중심 설계 원칙
-  - [ ] 37 28장 테스트와 벤치마크
-  - [ ] 38 Go 1.18 Generic 프로그래밍 #1/3
-  - [ ] 39 Go 1.18 Generic Programming #2/3
-  - [ ] 40 Go 1.18 Release Generic Programming #3/3
+  - [x] 36 27장 SOLID 객체 중심 설계 원칙
+  - [x] 37 28장 테스트와 벤치마크
+  - [x] 38 Go 1.18 Generic 프로그래밍 #1/3
+  - [x] 39 Go 1.18 Generic Programming #2/3
+  - [x] 40 Go 1.18 Release Generic Programming #3/3
 - golang으로 TIL 생성기 만들기
-  - [ ] today
-  - [ ] tomorrow
+  - [x] today
+  - [x] tomorrow
   - [ ] retro
   - [ ] TIL ETL 파이프라인
 - [ ] 플래시카드 1.1 프로젝트
@@ -65,3 +65,5 @@
   - [ ] 13주차
 - 클린 코드 정리
 - 컴퓨터 구조론 강의 듣기
+- [ ] 분기별 영타 연습
+- [ ] 면접보기
