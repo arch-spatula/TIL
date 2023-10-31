@@ -160,6 +160,7 @@
   - [ ] https://www.youtube.com/watch?v=9cXGI4E5Ll4
 - [ ] DIY-CS 학습 방법론 추가
   - [ ] 질문주도 개발
+  - https://www.youtube.com/watch?v=343EWZS9O88
 - [ ] DIY-CS 경우의 수와 DFS-BFS 정리하기
 - [ ] 휴대폰 브라우저 탭 정리하기
 - [ ] node.js로 숫자야구 CLI 만들기
@@ -174,6 +175,7 @@
   - [ ] 프론트엔드 회원탈퇴 기능 개발
   - [ ] 배포
   - [ ] 플래시카드 1커밋 이상(프론트엔드 백엔드 무관)
+- [ ] 점심시간 중 우리은행 방문 및 상담
 
 #### 월간목표
 
