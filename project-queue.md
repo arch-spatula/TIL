@@ -16,6 +16,6 @@
 - [ ] 시나리오 작성 플랫폼
 - [ ] 버거 헌터
 - [ ] 평론가 리뷰 플랫폼
+- [ ] 포트폴리오 페이지 만들기
 
 [21 Programming Project Ideas (Beginner to Advanced)](https://www.youtube.com/watch?v=FCNg8KyMmGI)
-
