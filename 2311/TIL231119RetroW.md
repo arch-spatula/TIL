@@ -48,12 +48,44 @@
 ### Action Item
 
 - [ ] pnpm 모노레포 적용 방법 정리
+- [ ] vitest 에러처리 추가하고 탈고
 - [ ] DIY-CS 경우의 수와 DFS-BFS 정리하기
 - [ ] 휴대폰 브라우저 탭 정리하기
 - [ ] 분기별 영타 연습
-- [ ] vitest 에러처리 추가하고 탈고
 - [ ] 요청 최적화
 - [ ] avl tree
 - [ ] minimum sum array
 - [ ] 블로그 정리회고
+- [ ] 널널한 개발자 docker 정리
+- [ ] 컴퓨터 구조론 & 어쎔블리
+- [ ] 개발자 Busy Work 유형화 후 정리
+- [ ] 단기기억 자료 정리
+- [ ] 요구사항 듣고 한번에 알아듣는 법 정리
 - [ ] golang TIL-CLI 착수
+
+---
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Range
+
+https://ko.javascript.info/browser-environment
+
+speed.hetzner
+
+rtt
+
+https://blog.naver.com/PostView.naver?blogId=jhc9639&logNo=221440517724&categoryNo=99&parentCategoryNo=0
+
+https://blog.naver.com/PostView.naver?blogId=jhc9639&logNo=222642712063&categoryNo=99&parentCategoryNo=0
+
+https://blog.naver.com/jhc9639/222532679687
+
+---
+
+https://namu.wiki/w/Docker
+
+https://www.44bits.io/ko/post/why-should-i-use-docker-container
+
+https://pyrasis.com/jHLsAlwaysUpToDateDocker
+
