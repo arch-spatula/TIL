@@ -46,6 +46,7 @@
   - [ ] v-if VS v-show
   - [ ] ResizeObserver DOM Ref와 사용하는 방법
   - [ ] 메뉴 자릿수 전략
-  - [ ] ????
+  - [ ] computed get, set
+  - [ ] 주간 회고들 마이그레이션
 - [ ] ERD 이어서 그려보기
 - [ ] htmx todo app 만들기
