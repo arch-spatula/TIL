@@ -4,7 +4,6 @@
 
 - [ ] vue 디자인 시스템
 - [ ] 플래시카드 vue.js + nest.js 혹은 nuxt.js로 porting
-- [ ] C 언어로 숫자야구 CLI 만들기
 - [ ] C 언어로 블랙잭 CLI 만들기
 - [ ] node.js 숫자야구 CLI
 - [ ] node.js 블랙잭 CLI
@@ -28,6 +27,7 @@
 - [ ] godot으로 flappy bird 만들기
 - [ ] 어쎔블리어로 다익스트라 구현하기
 - [ ] 웹어쎔블리로 엑셀 만들기
+- [x] C 언어로 숫자야구 CLI 만들기
 - [x] vue Ultimate tic-tac-toe xstate로 한번더 구현(시점 문제를 해결할 수 없다는 것을 발견하고 중단)
 - [x] WSL 설치(회사 컴퓨터에 우분투 설치함)
 - [x] TIL-CLI
@@ -42,20 +42,21 @@
 - [ ] [NGINX Tutorial for Beginners](https://www.youtube.com/watch?v=9t9Mp0BGnyI)
 - [ ] [Data Engineering Course for Beginners](https://www.youtube.com/watch?v=PHsC_t0j1dU)
 - [ ] [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
+- [ ] [Learn By Building: Language Server Protocol](https://www.youtube.com/watch?v=YsdlcQoHqPY)
 
 ## 읽을 도서 목록
 
-- [ ] C를 배우기 전에 반드시 알아야 할 것들
+- [ ] 독하게 시작하는 C
 - [ ] 이펙티브 타입스크립트
 - [ ] 실용주의 프로그래머
 - [ ] 운영체제(a.k.a. 공룡책)
 - [ ] 컴퓨터 구조론
-- [ ] 독하게 시작하는 C
 - [ ] 클린 코드
 - [ ] 자바의 정석
 - [ ] 코딩을 지탱하는 실력
 - [ ] Crafting Interpreters 로버트 나이스트롬의 인터프리터 in Java, C
 - [ ] 자바스크립트로 배우는 SICP
+- [x] C를 배우기 전에 반드시 알아야 할 것들
 
 ## 자격증
 
@@ -77,6 +78,7 @@
 ## 장비
 
 - [x] 와콤 패드
+- [x] LG가 아닌 휴대폰
 - [ ] 해피해킹 키보드
 - [ ] 피그마 맥크로 키보드
 
