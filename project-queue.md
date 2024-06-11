@@ -2,9 +2,12 @@
 
 사실 큐 구조로 할 필요는 없습니다. 또 무조건 프로젝트일 필요도 없습니다.
 
-- [ ] C 언어로 블랙잭 CLI 만들기
-  - [ ] 0.0.1
-- [ ] 플래시카드 vue.js + nest.js 혹은 nuxt.js로 porting
+- TIL-CLI
+  - [x] 1.0.1
+  - [ ] 1.0.2
+- [ ] 플래시카드
+  - [ ] 1.0.0
+  - [ ] 2.0.0 (nuxt.js로 porting)
 - [ ] 백준 C/C++/자바스크립트로 플래티넘 달성
   - [ ] 브론즈
   - [ ] 실버
@@ -21,8 +24,10 @@
 - [ ] JSONbase(pocketbase 대체제) 유사 BaaS
 - [ ] 포트폴리오 페이지 만들기
 - [ ] 버그바운티용 조립식 컴퓨터 칼리 리눅스로 사용하기
-- [ ] 조립식 컴퓨터에 Arch Linux 사용하기
-- [ ] tailsOS USB
+- [ ] 조립식 컴퓨터
+  - [ ] Arch Linux 사용하기
+  - [ ] NixOS 사용하기
+- [ ] tailsOS USB 운영체제 만들기
 - [ ] 칼리 리눅스 USB
 - [ ] godot으로 flappy bird 만들기
 - [ ] 어쎔블리어로 다익스트라 구현하기
@@ -33,9 +38,11 @@
 - [x] C 언어로 숫자야구 CLI 만들기
 - [x] vue Ultimate tic-tac-toe xstate로 한번더 구현(시점 문제를 해결할 수 없다는 것을 발견하고 중단)
 - [x] WSL 설치(회사 컴퓨터에 우분투 설치함)
-- [x] TIL-CLI
 - [x] distro 없이 nvim 설정해보기
 - [x] 크롬 브라우저 사이트 블로커 만들기
+- C 언어로 블랙잭 CLI 만들기
+  - [x] 0.0.1
+  - [ ] 0.0.2
 
 [21 Programming Project Ideas (Beginner to Advanced)](https://www.youtube.com/watch?v=FCNg8KyMmGI)
 [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
