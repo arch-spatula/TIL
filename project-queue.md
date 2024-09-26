@@ -2,16 +2,26 @@
 
 사실 큐 구조로 할 필요는 없습니다. 또 무조건 프로젝트일 필요도 없습니다.
 
+- go koans
+  - go TDD 문서로 대체
+  - https://quii.gitbook.io/learn-go-with-tests
+    - [x] 1차 시도 Go fundamentals
+    - [ ] 2차 시도 Go fundamentals 부터 마무리
+  - [ ] go koans 최신화하고 직접 만들기
+- 패스워드 매니져 만들기
+  - [x] 0.0.1 CLI로 암호 생성
+  - [ ] 0.0.2 암호 보관
 - TIL-CLI
   - [x] 1.0.1
   - [ ] 1.0.2
 - [ ] 플래시카드
-  - [ ] 1.0.0
+  - [x] 1.0.0
   - [ ] 2.0.0 (nuxt.js로 porting)
 - [ ] 백준 C/C++/자바스크립트로 플래티넘 달성
   - [ ] 브론즈
   - [ ] 실버
   - [ ] 골드
+- [ ] 하필이면 환생한 이세계가 코기니아 metroidvania, rpg, ARG 게임만들기
 - [ ] node.js 숫자야구 CLI
 - [ ] node.js 블랙잭 CLI
 - [ ] go 언어로 크롤러(P2P 채권)
@@ -32,6 +42,7 @@
 - [ ] godot으로 flappy bird 만들기
 - [ ] 어쎔블리어로 다익스트라 구현하기
 - [ ] 웹어쎔블리로 엑셀 만들기
+- [ ] Xcode 대체제 Swift 에디터 Swift로 만들기
 - [ ] vue 디자인 시스템
   - [x] 0.1.0 릴리즈
   - [ ] 0.2.0 릴리즈
@@ -95,6 +106,8 @@
 
 - [x] 와콤 패드
 - [x] LG가 아닌 휴대폰
+- [ ] 리눅스 데스크탑 키보드
 - [ ] 해피해킹 키보드
 - [ ] Corne Keyboard
 - [ ] 피그마 맥크로 키보드
+  - 제품명 PO-20 arcade
