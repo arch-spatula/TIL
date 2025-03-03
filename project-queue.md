@@ -2,6 +2,7 @@
 
 사실 큐 구조로 할 필요는 없습니다. 또 무조건 프로젝트일 필요도 없습니다.
 
+- [ ] brew에서 nix-darwin으로 마이그레이션
 - go koans
   - go TDD 문서로 대체
   - https://quii.gitbook.io/learn-go-with-tests
@@ -16,11 +17,12 @@
   - [ ] 1.0.2
 - [ ] 플래시카드
   - [x] 1.0.0
-  - [ ] 2.0.0 (nuxt.js로 porting)
+  - [ ] 2.0.0 (vue에 nestjs로 결정)
 - [ ] 백준 C/C++/자바스크립트로 플래티넘 달성
   - [ ] 브론즈
   - [ ] 실버
   - [ ] 골드
+  - [ ] 플래티넘
 - [ ] 하필이면 환생한 이세계가 코기니아 metroidvania, rpg, ARG 게임만들기
 - [ ] node.js 숫자야구 CLI
 - [ ] node.js 블랙잭 CLI
@@ -29,6 +31,7 @@
 - [ ] vue & D3 금융 데이터 시각화
 - [ ] 시나리오 작성 플랫폼
 - [ ] 버거 헌터
+- [ ] 미국 애니메이션 커뮤니티 만들기
 - [ ] 맛집 평론가 리뷰 플랫폼
 - [ ] 트레이딩 봇
 - [ ] JSONbase(pocketbase 대체제) 유사 BaaS
@@ -63,7 +66,7 @@
 - [ ] [NGINX Tutorial for Beginners](https://www.youtube.com/watch?v=9t9Mp0BGnyI)
 - [ ] [Data Engineering Course for Beginners](https://www.youtube.com/watch?v=PHsC_t0j1dU)
 - [ ] [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
-- [ ] [Learn By Building: Language Server Protocol](https://www.youtube.com/watch?v=YsdlcQoHqPY)
+- [x] [Learn By Building: Language Server Protocol](https://www.youtube.com/watch?v=YsdlcQoHqPY)
 
 ## 읽을 도서 목록
 
@@ -82,6 +85,8 @@
 ## 자격증
 
 - [ ] 정보처리기사 자격증
+  - [ ] 1차
+  - [ ] 2차
 - [ ] SQLD 자격증
 - [ ] 독학사 컴퓨터공학
 - [ ] 방통대 컴퓨터공학 학사학위
